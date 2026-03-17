@@ -288,5 +288,10 @@
   "finish": "Finish",
   "flash-point": "Flash Point",
   "viscosity": "Viscosity",
-  "product-glossiness-id": "Product Glossiness ID"
+  "product-glossiness-id": "Product Glossiness ID",
+  "TypeName": "Type Name",
+  "SurfaceTypeName": "Surface Type Name",
+  "GlossinessDescription": "Glossiness Description",
+  "Usage": "Usage",
+  "FamilyName": "Family Name"
 }

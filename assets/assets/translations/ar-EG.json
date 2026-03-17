@@ -289,5 +289,10 @@
   "finish": "التشطيب",
   "flash-point": "نقطة الوميض",
   "viscosity": "اللزوجة",
-  "product-glossiness-id": "معرف اللمعان للمنتج"
+  "product-glossiness-id": "معرف اللمعان للمنتج",
+  "TypeName": "اسم النوع",
+  "SurfaceTypeName": "اسم نوع السطح",
+  "GlossinessDescription": "وصف اللمعان",
+  "Usage": "الاستخدام",
+  "FamilyName": "اسم العائلة"
 }
