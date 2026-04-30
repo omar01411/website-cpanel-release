@@ -293,5 +293,14 @@
   "SurfaceTypeName": "Surface Type Name",
   "GlossinessDescription": "Glossiness Description",
   "Usage": "Usage",
-  "FamilyName": "Family Name"
+  "FamilyName": "Family Name",
+  "tools": "Tools",
+  "application-tools": "Application Tools",
+  "tool-brush": "Brush",
+  "tool-roller": "Roller",
+  "tool-spray-gun": "Spray Gun",
+  "tool-trowel": "Trowel",
+  "tool-plastic-spatula": "Plastic Spatula",
+  "tool-sponge": "Sponge",
+  "tool-knife": "Knife"
 }

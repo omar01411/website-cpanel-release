@@ -294,5 +294,14 @@
   "SurfaceTypeName": "اسم نوع السطح",
   "GlossinessDescription": "وصف اللمعان",
   "Usage": "الاستخدام",
-  "FamilyName": "اسم العائلة"
+  "FamilyName": "اسم العائلة",
+  "tools": "الأدوات",
+  "application-tools": "أدوات التطبيق",
+  "tool-brush": "فرشاة",
+  "tool-roller": "رولة",
+  "tool-spray-gun": "مسدس رش",
+  "tool-trowel": "مالج",
+  "tool-plastic-spatula": "باغة بلاستيك",
+  "tool-sponge": "إسفنج",
+  "tool-knife": "سكينة معجون"
 }
