@@ -201,6 +201,8 @@
   "last-maint-date": "تاريخ آخر صيانة",
   "images": "الصور",
   "tds-files": "ملفات TDS",
+  "is-hidden": "مخفي",
+  "IsHiddenLabel": "مخفي",
   "sales": "المبيعات",
   "user-deleted": "تم حذف المستخدم بنجاح",
   "packings": "التعبئة",

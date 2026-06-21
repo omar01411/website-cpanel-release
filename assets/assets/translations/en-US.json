@@ -201,6 +201,8 @@
   "last-maint-date": "Last Maintained Date",
   "images": "Images",
   "tds-files": "TDS Files",
+  "is-hidden": "Hidden",
+  "IsHiddenLabel": "Hidden",
   "sales": "Sales",
   "user-deleted": "User deleted successfully",
   "packings": "Packings",
