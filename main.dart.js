@@ -139607,7 +139607,7 @@ h=c3==null?0:c3
 g=c9==null?0:c9
 f=t.N
 e=t.z
-d=A.a5(["ProductID",l,"ProductEnglishName",b8,"ProductArabicName",b6,"ProductEnglishDescription",b7,"ProductArabicDescription",b5,"AverageSpreadingRate",b,"ColorEnglish",a3,"ColorArabic",a2,"ProductTypeID",k,"ProductUsageID",j,"ProductFamilyID",i,"ProductSurfaceTypeID",h,"ProductGlossinessID",g,"ProductURL",c1,"FeaturesArabic",a5,"FeaturesEnglish",a6,"CoatsEnglish",a1,"CoatArabic",a0,"DryingTime",a4,"FinishArabic",a7,"FinishEnglish",a8,"RecommendedUseEnglish",c7,"RecommendedUseArabic",c6,"Brush",c,"Roller",c8,"SprayGun",d1,"Trowel",d2,"PlasticSpatula",b4,"Sponge",d0,"Knife",b1,"ProductSize",c2,"MiniDescriptionEnglish",b3,"MiniDescription",b2,"IsHidden",a9,"IsNew",b0],f,e)
+d=A.a5(["ProductID",l,"ProductEnglishName",b8,"ProductArabicName",b6,"ProductEnglishDescription",b7,"ProductArabicDescription",b5,"AverageSpreadingRate",b,"ColorEnglish",a3,"ColorArabic",a2,"ProductTypeID",k,"ProductUsageID",j,"ProductFamilyID",i,"ProductSurfaceTypeID",h,"ProductGlossinessID",g,"ProductURL",c1,"FeaturesArabic",a5,"FeaturesEnglish",a6,"CoatsEnglish",a1,"CoatArabic",a0,"DryingTime",a4,"FinishArabic",a7,"FinishEnglish",a8,"RecommendedUseEnglish",c7,"RecommendedUseArabic",c6,"Brush",c,"Roller",c8,"SprayGun",d1,"Trowel",d2,"PlasticSpatula",b4,"Sponge",d0,"Knife",b1,"ProductSize",c2,"MiniDescriptionArabic",b2,"MiniDescription",b3,"IsHidden",a9,"IsNew",b0],f,e)
 s=d.h(0,"ProductURL")!=null&&J.a1(d.h(0,"ProductURL"))!==B.to?3:4
 break
 case 3:if(!J.c(d.h(0,"ProductID"),0)){l=d.h(0,"ProductID")
