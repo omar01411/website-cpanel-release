@@ -335,6 +335,7 @@
   "color-assigned-successfully": "تم تعيين اللون بنجاح",
   "edit-color-name": "تعديل اسم اللون",
   "color-name-updated": "تم تحديث اسم اللون بنجاح",
+  "color-removed-successfully": "تم حذف اللون بنجاح",
   "something-went-wrong": "حدث خطأ ما",
   "color-already-assigned": "هذا اللون معين بالفعل للفئة",
   "live": "مباشر",

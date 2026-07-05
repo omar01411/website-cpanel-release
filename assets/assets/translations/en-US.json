@@ -334,6 +334,7 @@
   "color-assigned-successfully": "Color assigned successfully",
   "edit-color-name": "Edit color name",
   "color-name-updated": "Color name updated successfully",
+  "color-removed-successfully": "Color removed successfully",
   "something-went-wrong": "Something went wrong",
   "color-already-assigned": "This color is already assigned to the category",
   "live": "Live",
