@@ -38831,7 +38831,7 @@ _.a_=_.X=_.a4=_.P=_.I=_.t=_.b2=_.aS=_.y2=_.y1=_.xr=_.x2=_.x1=_.to=_.ry=_.rx=_.RG
 bjc(a){switch(a.toLowerCase()){case"image":return"website_cpanel/images"
 case"video":return"website_cpanel/videos"
 case"brochure":return"website_cpanel/brochures"
-case"mcds":return"website_cpanel/mcds"
+case"msds":return"website_cpanel/msds"
 default:return"website_cpanel/tds"}},
 nB:function nB(a,b,c,d,e,f,g,h,i,j,k,l,m,n){var _=this
 _.x=a
@@ -39211,7 +39211,7 @@ this.a=b},
 bMN(a){switch(a.a){case 2:return"Image"
 case 3:return"Video"
 case 4:return"Brochure"
-case 1:return"MCDS"
+case 1:return"MSDS"
 case 0:return"TDS"}},
 a4C(a,b,c,d,e,f){return new A.KN(b,!0,d,f,e,c,null)},
 uU:function uU(a,b){this.a=a
@@ -141287,7 +141287,7 @@ if(d===$){j=t.N
 h=t.z
 f=t.H7
 e=A.b([A.a4(["id",0,"title","Product Details","icon",B.a7F],j,h),A.a4(["id",2,"title","Product Tree","icon",B.a7v],j,h),A.a4(["id",4,"title","Product Features","icon",B.a7G],j,h),A.a4(["id",5,"title","Technical Info","icon",B.a7I],j,h),A.a4(["id",6,"title","Tools","icon",B.Dg],j,h)],f)
-if(c.a.d!=null)B.b.T(e,A.b([A.a4(["id",1,"title","TDS","icon",B.k5],j,h),A.a4(["id",9,"title","MCDS","icon",B.Df],j,h),A.a4(["id",3,"title","Images","icon",B.eX],j,h),A.a4(["id",7,"title","Videos","icon",B.Dn],j,h),A.a4(["id",8,"title","Brochures","icon",B.Dj],j,h)],f))
+if(c.a.d!=null)B.b.T(e,A.b([A.a4(["id",1,"title","TDS","icon",B.k5],j,h),A.a4(["id",9,"title","MSDS","icon",B.Df],j,h),A.a4(["id",3,"title","Images","icon",B.eX],j,h),A.a4(["id",7,"title","Videos","icon",B.Dn],j,h),A.a4(["id",8,"title","Brochures","icon",B.Dj],j,h)],f))
 c.y1!==$&&A.aS()
 c.y1=e
 d=e}B.b.T(i,new A.a5(d,new A.apD(c),A.V(d).i("a5<1,d>")))
@@ -141528,7 +141528,7 @@ break
 case 8:d=m.b
 c=m.b
 s=10
-return A.C(A.a_8(d==="Image",!1,m.b==="MCDS",c==="Video"),$async$vW)
+return A.C(A.a_8(d==="Image",!1,m.b==="MSDS",c==="Video"),$async$vW)
 case 10:j=b0
 if(j==null){s=1
 break}i=null
@@ -141590,7 +141590,7 @@ if(m==null){s=1
 break}f=m.b
 e=m.b
 s=8
-return A.C(A.a_8(f==="Image",!1,m.b==="MCDS",e==="Video"),$async$vF)
+return A.C(A.a_8(f==="Image",!1,m.b==="MSDS",e==="Video"),$async$vF)
 case 8:l=a3
 if(l==null){s=1
 break}k=null
@@ -143043,7 +143043,7 @@ return A.bf(k,B.W,B.j,B.m)},
 a9e(a){switch(a.a){case 2:return"Image"
 case 3:return"Video"
 case 4:return"Brochure"
-case 1:return"MCDS"
+case 1:return"MSDS"
 case 0:return"TDS"}},
 aty(a){var s,r,q,p,o,n,m=this,l=null,k=m.a6_(a)
 if(k.length===0){A:{if(B.zg===a){s=B.Dn
@@ -143192,8 +143192,8 @@ s=r.toLowerCase()
 switch(this.a.a){case 2:return s==="image"
 case 3:return s==="video"
 case 4:return s==="brochure"
-case 1:return s==="mcds"
-case 0:return s!=="image"&&s!=="video"&&s!=="brochure"&&s!=="mcds"}},
+case 1:return s==="msds"
+case 0:return s!=="image"&&s!=="video"&&s!=="brochure"&&s!=="msds"}},
 $S:889}
 A.b7L.prototype={
 $0(){var s=this.a,r=s.a
@@ -149105,7 +149105,7 @@ B.uj=new A.FX(1,"assertive")
 B.zd=new A.Vp(1,"assertive")
 B.Yr=new A.Vt(null)
 B.ze=new A.uU(0,"tds")
-B.zf=new A.uU(1,"mcds")
+B.zf=new A.uU(1,"msds")
 B.uk=new A.uU(2,"images")
 B.zg=new A.uU(3,"videos")
 B.zh=new A.uU(4,"brochures")
