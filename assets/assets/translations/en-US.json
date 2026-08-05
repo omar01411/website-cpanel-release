@@ -369,6 +369,8 @@
   "color-psychology-id": "ID",
   "color-psychology-english-name": "English Name",
   "color-psychology-arabic-name": "Arabic Name",
+  "color-psychology-english-description": "English Description",
+  "color-psychology-arabic-description": "Arabic Description",
   "color-psychology-image": "Image",
   "add-color-psychology": "Add Color Psychology",
   "edit-color-psychology": "Edit Color Psychology"
