@@ -425,5 +425,6 @@
   "edit-color-center": "Edit Color Center",
   "color-center-added-successfully": "Color center added successfully",
   "color-center-updated-successfully": "Color center updated successfully",
-  "required-field": "This field is required"
+  "required-field": "This field is required",
+  "select-goverment-first": "Select a governorate first"
 }

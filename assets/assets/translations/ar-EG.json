@@ -427,5 +427,6 @@
   "edit-color-center": "تعديل مركز الألوان",
   "color-center-added-successfully": "تمت إضافة مركز الألوان بنجاح",
   "color-center-updated-successfully": "تم تحديث مركز الألوان بنجاح",
-  "required-field": "هذا الحقل مطلوب"
+  "required-field": "هذا الحقل مطلوب",
+  "select-goverment-first": "اختر المحافظة أولاً"
 }
