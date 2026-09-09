@@ -414,5 +414,18 @@
   "color-psychology-arabic-description": "الوصف بالعربية",
   "color-psychology-image": "الصورة",
   "add-color-psychology": "إضافة سيكولوجية لون",
-  "edit-color-psychology": "تعديل سيكولوجية لون"
+  "edit-color-psychology": "تعديل سيكولوجية لون",
+  "color-centers": "مراكز الألوان",
+  "color-center-id": "معرف مركز الألوان",
+  "shop-id": "معرف المتجر",
+  "shop-name": "اسم المتجر",
+  "goverment": "المحافظة",
+  "mobile": "رقم المحمول",
+  "longitude": "خط الطول",
+  "latitude": "خط العرض",
+  "add-color-center": "إضافة مركز ألوان",
+  "edit-color-center": "تعديل مركز الألوان",
+  "color-center-added-successfully": "تمت إضافة مركز الألوان بنجاح",
+  "color-center-updated-successfully": "تم تحديث مركز الألوان بنجاح",
+  "required-field": "هذا الحقل مطلوب"
 }

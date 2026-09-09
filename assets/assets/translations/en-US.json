@@ -412,5 +412,18 @@
   "color-psychology-arabic-description": "Arabic Description",
   "color-psychology-image": "Image",
   "add-color-psychology": "Add Color Psychology",
-  "edit-color-psychology": "Edit Color Psychology"
+  "edit-color-psychology": "Edit Color Psychology",
+  "color-centers": "Color Centers",
+  "color-center-id": "Color Center ID",
+  "shop-id": "Shop ID",
+  "shop-name": "Shop Name",
+  "goverment": "Government",
+  "mobile": "Mobile",
+  "longitude": "Longitude",
+  "latitude": "Latitude",
+  "add-color-center": "Add Color Center",
+  "edit-color-center": "Edit Color Center",
+  "color-center-added-successfully": "Color center added successfully",
+  "color-center-updated-successfully": "Color center updated successfully",
+  "required-field": "This field is required"
 }
